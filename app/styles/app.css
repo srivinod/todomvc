@@ -1,0 +1,6 @@
+:focus,
+.view label:focus,
+.todo-list li .toggle:focus +label,
+toggle-all-focus + label{
+    outline:#d86f95 solid !important;
+}
